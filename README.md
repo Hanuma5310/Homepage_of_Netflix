@@ -1,2 +1,1 @@
-# Netfix_clone
-Bharat intern task
+# NETFLIX_clone
